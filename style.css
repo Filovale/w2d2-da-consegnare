@@ -1,0 +1,253 @@
+body {
+    margin: auto;
+}
+
+#main {
+    display: flex;
+}
+
+#upperbar {
+    display: flex;
+    border-bottom: whitesmoke solid 3px;
+    margin-top: 20px;
+    padding-bottom: 1px;
+    margin-left: 200px;
+    justify-content: space-between;
+    align-content: center;
+
+}
+.mediumlogo {
+    height: 40px;
+}
+
+#uppericons {
+    display: flex;
+    margin-right: 200px;
+    margin-top: 20px;
+
+}
+
+.search {
+    height: 25px;
+    width: 25px;
+    margin: 10px 10px;
+    cursor: pointer;
+}
+
+.topbar {
+    font-size: larger;
+    border:  gray solid 1px;
+    border-radius: 20px;
+    padding: 5px 10px;
+    margin-top: 5px;
+    cursor: pointer;
+
+}
+
+.tlogo {
+    height: 40px;
+    width: 50px;
+    margin-top: -7px;
+}
+
+#twospan {
+    font-family: Arial;
+    margin-left: 15px;
+    padding-bottom: 15px;
+    border-bottom: whitesmoke solid 3px;
+    cursor: pointer;
+}
+
+.secondspan {
+    padding-left: 30px;
+}
+#leftside {
+    margin-left: 200px;
+    margin-top: 80px;
+    width: 2000px;
+}
+
+.pages {
+    padding-top: 20px;
+    padding-left: 30px;
+    height: 230px;
+    width: 230px;
+
+}
+
+#rightside {
+    border-left: whitesmoke solid 3px;
+    margin-left: 100px;
+}
+
+.twitter {
+    width: 700px;
+    margin-left: 100px;
+    margin-top: 100px;
+    padding-bottom: 30px;
+    border-bottom: whitesmoke solid 3px;
+    text-align: center;
+}
+
+.discover {
+    font-family: Arial;
+    font-size: larger;
+    margin-top: 40px;
+}
+
+.twitterbar {
+    display: flex;
+    border: gray solid 1px;
+    width: 250px;
+    border-radius: 25px;
+    text-align: center;
+    margin-left: 230px;
+    margin-top: 40px;
+}
+
+.smalltwitter {
+    margin-left: 20px;
+}
+
+.connect {
+    font-family: Arial;
+    font-size: 15px;
+    padding-left: 30px;
+}
+
+.maybe {
+    color: grey;
+    text-decoration:underline;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.recommended {
+    margin-top: 100px;
+    margin-left: 100px;
+    font-family: Arial;
+    margin-right: 300px;
+}
+
+.maintopics {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 50px;
+    margin-left: -12px;
+}
+
+.topics {
+    font-size: 17px;
+    background-color:#F2F2F2;
+    height: 40px;
+    width: 150px;
+    border: #F2F2F2 solid 1px;
+    border-radius: 25px;
+    margin: 10px;
+    text-align: center;
+    padding-top: 15px;
+    cursor: pointer;
+}
+
+.follow {
+    margin-top: 100px;
+    margin-left: 100px;
+    font-family: Arial;
+    margin-right: 300px;
+}
+
+.lessig {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.nameactivity {
+    flex-direction: column;
+    margin-left: -250px;
+}
+
+.lawprof {
+    color: gray;
+}
+
+.followp {
+    border: gray solid 1px;
+    border-radius: 35px;
+    width: 100px;
+    height: 25px;
+    text-align: center;
+    padding-top: 10px;
+    cursor: pointer;
+}
+
+.davidauthor {
+    margin-left: -200px;
+}
+
+.bonsuwriter {
+    margin-left: -180px;
+}
+
+.saved {
+    margin-top: 100px;
+    margin-left: 100px;
+    font-family: Arial;
+    margin-right: 300px;
+}
+
+.eva span {
+    color: gray;
+    font-size: smaller;
+}
+
+.seeall {
+    color: green;
+    margin-top: 50px;
+}
+
+.last {
+    display: flex;
+    margin-top: 100px;
+    margin-left: 58px;
+    font-family: Arial;
+    margin-right: 550px;
+    color: gray;
+    flex-wrap: wrap;
+}
+
+.last p {
+   padding-left: 35px;
+}
+
+.singlepage {
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.onlytext {
+    margin-right: 120px;
+}
+
+.onlytext3 {
+    margin-right: 220px;
+}
+
+.firstheader {
+    font-size: 37px;
+    font-family: Arial;
+}
+
+.littleparagraph {
+    color: gray;
+    font-size: 25px;
+    font-family: Arial;
+}
+
+span {
+    color: gray;
+    font-size: 18px;
+    margin-right: 10px;
+    font-family: Arial;
+}
